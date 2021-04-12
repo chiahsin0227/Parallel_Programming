@@ -12,9 +12,7 @@ In even-phase, all even/odd indexed pairs of adjacent elements are compared. If 
 
 In this assignment, we're required to implement the mandelbrot set **using Pthread and OpenMP**.
 
-The Mandelbrot Set is a set of complex numbers that are quasi-stable when computed by iterating the function:
-
-![](https://i.imgur.com/rjTQP3t.png)
+[What is Mandelbrot Set?]{https://en.wikipedia.org/wiki/Mandelbrot_set}
 
 What exact is the Mandelbrot Set?
 * It is fractal: An object that display self-similarity at various scale; magnifying a fractal reveals small-scale details similar to the larger-scale characteristics 
